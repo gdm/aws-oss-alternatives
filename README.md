@@ -35,5 +35,7 @@ ECS                     | Container orchestration   | [Kubernetes](https://kuber
 EKS                     | Container orchestration   | [Kubernetes](https://kubernetes.io/)
 Lambda                  | Serverless                | [Knative](https://knative.dev/), [OpenFaaS](https://www.openfaas.com/), [Fn](https://fnproject.io/)
 Batch                   | Job queue                 | [Apache Airflow](https://airflow.apache.org/)
-Elastic Beanstalk       | App deployment
-Serverless App. Repo.   | Serverless repository
+CodeBuild               | CI (Continious Integration) | [Jenkins](https://jenkins.io/), GitLab
+Cloud9                  | IDE in browser            | TBD Eclipse Che, RedHat CodeReady Workspaces
+Elastic Beanstalk       | App deployment            | TBD
+Serverless App. Repo.   | Serverless repository     | TBD
